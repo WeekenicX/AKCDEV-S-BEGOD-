@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   logs:
   - title: 2025/10/2
-    priority: 0
+    priority: 1
     description: "\u6D4B\u8BD5SO\u66F4\u6539"
     parts: []
   - title: 2025/10/3
