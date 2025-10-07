@@ -18,22 +18,6 @@ MonoBehaviour:
     description: "\u6D4B\u8BD5SO\u66F4\u6539"
     parts: []
   - title: 2025/10/5
-    priority: 0
-    description: "\u6D4B\u8BD5SO\u63A8\u9001"
-    parts: []
-  - title: 2025/10/5
-    priority: 0
-    description: "sourceTree\u6D4B\u8BD5"
-    parts: []
-  - title: 2025/10/5
-    priority: 0
-    description: "\u4E3B\u9879\u76EE\u5408\u5E76\u6D4B\u8BD5\u6D4B\u8BD5"
-    parts: []
-  - title: 2025/10/5
-    priority: 0
-    description: "\u4E3B\u9879\u76EE\u5408\u5E76\u6D4B\u8BD5\u6D4B\u8BD5"
-    parts: []
-  - title: 2025/10/5
     priority: 1
     description: "2025/10/5 <*>1.\u65E5\u5FD7\u4FE1\u606F\u8FDE\u63A5Github 2.\u79FB\u9664\u5BA0\u7269\u9762\u677F,\u91CD\u6784\u7075\u9B42\u9762\u677F
       3.\u4FEE\u6539\u65E5\u5FD7\u4FE1\u606FSO\u7684\u53C2\u6570<*>"
@@ -47,3 +31,13 @@ MonoBehaviour:
     - title: "\u4FEE\u6539\u65E5\u5FD7\u4FE1\u606FSO\u7684\u53C2\u6570"
       priority: 1
       description: "\u65E5\u5FD7\u4FE1\u606FSO\u7684\u53C2\u6570,\u73B0\u5728\u65E5\u5FD7\u4FE1\u606F\u6539\u4E3A\u6BCF\u65E5\u7684[\u6807\u9898][\u8BE6\u60C5][\u90E8\u5206]->[\u90E8\u5206\u5404\u529F\u80FD\u7684\u6807\u9898][\u90E8\u5206\u5404\u529F\u80FD\u7684\u63CF\u8FF0]"
+  - title: 2025/10/7
+    priority: 2
+    description: "2025/10/7 <**>1.\u6574\u7406\u811A\u672C 2.\u5F15\u5165SoulBase\u7C7B<**>"
+    parts:
+    - title: "\u6574\u7406\u811A\u672C"
+      priority: 1
+      description: "\u6574\u7406\u811A\u672C,\u5220\u9664\u4E0D\u518D\u4F7F\u7528\u7684\u90E8\u5206\u811A\u672C"
+    - title: "\u5F15\u5165SoulBase\u7C7B"
+      priority: 1
+      description: "\u5F15\u5165SoulBase,Soul\u7C7B\u4F1A\u901A\u8FC7id\u6765\u67E5\u627ESoulBase\u7684\u5185\u5BB9(\u4F8B\u5982Sprite\u7B49\u53C2\u6570)"
