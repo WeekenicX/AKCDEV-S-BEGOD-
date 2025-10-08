@@ -9,7 +9,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 96d5efd468089bf45afb5e18e8dec324, type: 3}
+  m_Script: {fileID: 11500000, guid: 87056dbe00fb7a8458bd380a5ddd0710, type: 3}
   m_Name: ALogs_2025
   m_EditorClassIdentifier: 
   logs:
@@ -51,3 +51,13 @@ MonoBehaviour:
     - title: "\u5F15\u5165SoulBase\u7C7B"
       priority: 1
       description: "\u5F15\u5165SoulBase,Soul\u7C7B\u4F1A\u901A\u8FC7id\u6765\u67E5\u627ESoulBase\u7684\u5185\u5BB9(\u4F8B\u5982Sprite\u7B49\u53C2\u6570)"
+  - title: 2025/10/8
+    priority: 3
+    description: "2025/10/8 <***>1.\u5B8C\u6210SoulBase\u7C7B\u6784\u6210 2.\u5206\u79BBSoul\u7684\u69FD\u4F4D\u70B9\u51FB\u903B\u8F91/\u663E\u793A\u903B\u8F91<***>"
+    parts:
+    - title: "\u5B8C\u6210SoulBase\u7C7B\u6784\u6210"
+      priority: 1
+      description: "\u5B8C\u6210SoulBase\u7C7B\u6784\u6210,\u5927\u6982\u7531\u4EE5\u4E0B(id,icon,affixGroup\u7B49)\u6784\u6210"
+    - title: "\u5206\u79BBSoul\u7684\u69FD\u4F4D\u70B9\u51FB\u903B\u8F91/\u663E\u793A\u903B\u8F91"
+      priority: 1
+      description: "Soul\u69FD\u4F4D\u70B9\u51FB\u903B\u8F91/\u663E\u793A\u903B\u8F91\u4E0E\u7269\u4F53\u76F8\u540C\u4E3A\u5206\u79BB\u72B6\u6001,\u4E92\u4E0D\u5F71\u54CD"
