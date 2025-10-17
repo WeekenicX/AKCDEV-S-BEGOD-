@@ -14,6 +14,7 @@ public class ALog
     public string title;
     public int priority;
     public string description;
+    public string tips;
     public ALogPart[] parts;
 
 
