@@ -491,3 +491,15 @@ MonoBehaviour:
     description: 
     tips: 
     parts: []
+  - title: 2025/11/4
+    priority: 1
+    description: "2025/11/4 <*>1.\u52A0\u5165prop 2.\u52A0\u5165machine<*> 1.\u52A0\u5165prop,prop\u7EE7\u627F\u4E8Eentity,prop\u4E3A\u573A\u666F\u7269\u4F53(\u4F46\u4E0D\u5305\u62EC\u5730\u56FE)
+      2.\u52A0\u5165machine,machine\u7EE7\u627F\u4E8Eprop,\u533A\u522B\u4E8E\u666E\u901Aprop,machine\u901A\u5E38\u6709Tick()\u903B\u8F91,\u4F8B\u5982\u6536\u96C6\u5668"
+    tips: 
+    parts:
+    - title: "\u52A0\u5165prop"
+      priority: 0
+      description: "\u52A0\u5165prop,prop\u7EE7\u627F\u4E8Eentity,prop\u4E3A\u573A\u666F\u7269\u4F53(\u4F46\u4E0D\u5305\u62EC\u5730\u56FE)"
+    - title: "\u52A0\u5165machine"
+      priority: 0
+      description: "\u52A0\u5165machine,machine\u7EE7\u627F\u4E8Eprop,\u533A\u522B\u4E8E\u666E\u901Aprop,machine\u901A\u5E38\u6709Tick()\u903B\u8F91,\u4F8B\u5982\u6536\u96C6\u5668"
