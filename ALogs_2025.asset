@@ -1566,3 +1566,12 @@ MonoBehaviour:
     description: "2025/12/28 <>\u6682\u505C\u66F4\u65B0,\u51C6\u5907\u56DE\u5BB6<>"
     tips: 
     parts: []
+  - title: 2025/12/30 <*>
+    priority: 1
+    description: "2025/12/30 <*>1.\u52A0\u5165\u7279\u6027\u76F8\u5173\u65B9\u6CD5
+      <*> 1.\u52A0\u5165\u7279\u6027\u76F8\u5173\u65B9\u6CD5,\u73B0\u5728\u7279\u6027\u53EF\u4EE5\u88AB\u6B63\u5E38\u6DFB\u52A0\u4EE5\u53CA\u79FB\u9664"
+    tips: 
+    parts:
+    - title: "\u52A0\u5165\u7279\u6027\u76F8\u5173\u65B9\u6CD5"
+      priority: 0
+      description: "\u52A0\u5165\u7279\u6027\u76F8\u5173\u65B9\u6CD5,\u73B0\u5728\u7279\u6027\u53EF\u4EE5\u88AB\u6B63\u5E38\u6DFB\u52A0\u4EE5\u53CA\u79FB\u9664"
