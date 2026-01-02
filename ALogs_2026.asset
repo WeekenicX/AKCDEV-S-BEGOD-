@@ -18,3 +18,33 @@ MonoBehaviour:
     description: "\u6B22\u8FCE\u6765\u52302026"
     tips: 
     parts: []
+  - title: 2026/1/1 <**>
+    priority: 2
+    description: "2026/1/1 <**>1.\u91CD\u65B0\u52A0\u5165ItemSaveStack 2.\u52A0\u5165SaveManager<**>
+      1.\u91CD\u65B0\u52A0\u5165ItemSaveStack,\u73B0\u5728\u53EF\u4EE5\u5728ItemSaveStack\u4E2D\u53CC\u5411\u8F6C\u6362
+      2.\u52A0\u5165SaveManager,\u521D\u6B65\u52A0\u5165\u8BFB\u53D6\u548C\u4FDD\u5B58\u65B9\u6CD5"
+    tips: 
+    parts:
+    - title: "\u91CD\u65B0\u52A0\u5165ItemSaveStack"
+      priority: 0
+      description: "\u91CD\u65B0\u52A0\u5165ItemSaveStack,\u73B0\u5728\u53EF\u4EE5\u5728ItemSaveStack\u4E2D\u53CC\u5411\u8F6C\u6362"
+    - title: "\u52A0\u5165SaveManager"
+      priority: 0
+      description: "\u52A0\u5165SaveManager,\u521D\u6B65\u52A0\u5165\u8BFB\u53D6\u548C\u4FDD\u5B58\u65B9\u6CD5"
+  - title: 2026/1/2 <***>
+    priority: 3
+    description: "2026/1/2 <***>1.\u4FEE\u6539ItemSaveStack 2.\u52A0\u5165SaveManager\u591A\u4E2A\u65B9\u6CD5
+      3.\u52A0\u5165\u5B58\u6863\u52A0\u5BC6\u89E3\u5BC6<***> 1.\u4FEE\u6539ItemSaveStack,\u73B0\u5728ItemSaveStack\u4E0D\u518D\u76F4\u63A5\u4FDD\u5B58ItemStack
+      2.\u52A0\u5165SaveManager\u591A\u4E2A\u65B9\u6CD5,\u73B0\u5728\u53EF\u4EE5\u88AB\u6B63\u5E38\u52A0\u8F7D\u548C\u5B58\u50A8,\u5E76\u4E14\u5206\u4E3A\u4E24\u90E8\u5206:\u8BFB\u53D6\u548C\u6620\u5C04
+      3.\u52A0\u5165\u5B58\u6863\u52A0\u5BC6\u89E3\u5BC6,\u5B58\u6863\u53EF\u4EE5\u88AB\u6B63\u5E38\u52A0\u5BC6\u89E3\u5BC6 "
+    tips: 
+    parts:
+    - title: "\u4FEE\u6539ItemSaveStack"
+      priority: 0
+      description: "\u4FEE\u6539ItemSaveStack,\u73B0\u5728ItemSaveStack\u4E0D\u518D\u76F4\u63A5\u4FDD\u5B58ItemStack"
+    - title: "\u52A0\u5165SaveManager\u591A\u4E2A\u65B9\u6CD5"
+      priority: 0
+      description: "\u52A0\u5165SaveManager\u591A\u4E2A\u65B9\u6CD5,\u73B0\u5728\u53EF\u4EE5\u88AB\u6B63\u5E38\u52A0\u8F7D\u548C\u5B58\u50A8,\u5E76\u4E14\u5206\u4E3A\u4E24\u90E8\u5206:\u8BFB\u53D6\u548C\u6620\u5C04"
+    - title: "\u52A0\u5165\u5B58\u6863\u52A0\u5BC6\u89E3\u5BC6"
+      priority: 0
+      description: "\u52A0\u5165\u5B58\u6863\u52A0\u5BC6\u89E3\u5BC6,\u5B58\u6863\u53EF\u4EE5\u88AB\u6B63\u5E38\u52A0\u5BC6\u89E3\u5BC6"
