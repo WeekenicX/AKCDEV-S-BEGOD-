@@ -5,7 +5,6 @@ using UnityEngine;
 [CreateAssetMenu(fileName = "ALogs", menuName = "AKCDEV_GAME/ALogs")]
 public class ALogs : ScriptableObject
 {
-
     public ALog[] logs;
 }
 [System.Serializable]
