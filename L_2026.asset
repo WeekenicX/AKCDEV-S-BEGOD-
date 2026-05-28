@@ -73,8 +73,13 @@ MonoBehaviour:
     description: 
     tips: 
     parts: []
-  - title: 2026/5/26
-    priority: 4
+  - title: 2026/5/27
+    priority: 3
+    description: 
+    tips: 
+    parts: []
+  - title: 2026/5/28
+    priority: 3
     description: 
     tips: 
     parts: []
