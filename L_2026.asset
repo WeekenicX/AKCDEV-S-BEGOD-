@@ -198,7 +198,12 @@ MonoBehaviour:
     description: 1
     tips: 
     parts: []
-  - title: 2026/7/4
+  - title: 2026/7/2
+    priority: 4
+    description: 1
+    tips: 
+    parts: []
+  - title: 2026/7/3
     priority: 4
     description: 1
     tips: 
